@@ -1,0 +1,6 @@
+{
+  "name": "AI Content Creator Bootcamp",
+  "description": "Comprehensive landing page and enrollment application for the AI Content Creator Bootcamp by ZoeDigital. Learn AI Video, Canva graphics, build a portfolio website, and take the 21-day visibility challenge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
